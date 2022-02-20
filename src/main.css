@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.hello {
+  background: red;
+  color: blue;
+  font-size: 1rem;
+}
